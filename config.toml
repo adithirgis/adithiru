@@ -30,8 +30,8 @@ enableEmoji = true
 [params]
   orgName = " Adithi R. Upadhya"
   description = "Personal website of Adithi R. Upadhya"
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  favicon = "/img/logo_online.ico"
+  logo = "/img/Icon_ARU.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
