@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
-  A website template for Hugo developed by RStudio & Formspree and available for free.
+  Thanks for visiting my website, it is made so beautiful using the Hugo Apéro.
 show_header: true
 sidebar_left: false
 title: About
