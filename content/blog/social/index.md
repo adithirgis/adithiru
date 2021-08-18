@@ -1,32 +1,26 @@
 ---
-author: Alison Hill & Eric Anderson
+author: Adithi R. Upadhya
 categories:
-- Theme Features
-date: "2021-01-28"
+- R
+- Website
+date: "2021-08-15"
 draft: false
-excerpt: This theme offers built-in Font Awesome icons for organizing your collection
-  of social accounts and their links. Use icons to help visitors find you wherever
-  you want to be found, and learn how to show or hide them in your site's header,
-  footer, homepage, about page, and contact form.
+excerpt: This blog post will help you to make your own website. 
 layout: single
-subtitle: Social icons may appear on several pages throughout your site. Learn how
-  to set them up, and control where they show up.
-title: Set up your social
+subtitle: Wondering if you would need a website ever, read through.  
+title: Why and how website(s)?
 ---
 
-There are five places where you can choose to show social icons. Here is the tl;dr:
+I have been wanting to make a personal website forever, but I am also a person who is super bad with colour combinations, beautification of stuff. So I kept pushing this, till I stumbled on [Silvia's website](https://silvia.rbind.io/). I directly contacted her and she was very nice and sweet to help me out throughout this. This website has been heavily inspired by Silvia's. 
 
-+ site header (set in `config.toml`), 
-+ site footer (set in `config.toml`), 
-+ [homepage](/) (set in `content/_index.md`),
-+ [about page](/about) in the sidebar (set in `content/about/sidebar/index.md`), and
-+ [contact page](/contact) (set in `content/form/contact.md`). 
+I already had a [simple website](https://adithirgis.netlify.app/), but I wanted to beautify it. So the beginning of this year, I was got selected for the [rstudio::global(2021)](https://blog.rstudio.com/2020/11/30/diversity-scholarships/) Diversity Scholar. This year we had two amazing educators [Mine «etinkaya-Rundel](https://www2.stat.duke.edu/~mc301/) and [Alison Hill](https://alison.rbind.io/). 
 
-Read on to learn how to set up your social icons, and how to show/hide them.
+Now the first thing that came to mind while making personal websites was do I really need one? 
+I was told by a few people who worked with me that I should I have a website, and I kept telling myself the same thing. Reiterating that I have been I wanted to communicate my research struggles, learning in a systematic manner. So here is the outcome of this. Alison had introduced this theme called Hugo Ap√©ro and I was blown away by the beauty. 
 
-## Configure social 
+This blog is an inspiration derived from that session during rstudio::global(2021) conference and t
 
-Wherever you end up wanting to show your social icons, you'll need to start by setting up the links in your site `config.toml` file. Open that up and scroll down to the `[[params.social]]` section. The start of it looks like this:
+
 
 ```toml
 [params]
@@ -44,58 +38,4 @@ Wherever you end up wanting to show your social icons, you'll need to start by s
   [[params.social]] <!--lather, rinse, repeat-->
 ```
 
-For each link, you'll need to start a new portion that begins with `[[params.social]]`. Then, pick your `icon` and `icon_pack` from the [Font Awesome](https://fontawesome.com/) free icon library:
 
-+ Icon pack "fab" includes [brand icons](https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-
-+ Icon pack "fas" includes [solid icons](https://fontawesome.com/icons?d=gallery&s=solid&m=free)
-
-+ Icon pack "far" includes [regular icons](https://fontawesome.com/icons?d=gallery&s=regular&m=free)
-
-Finally, add the `url` that you would like users to go to when they click on that icon. All external links (i.e., those that start with `http`) will open in a new tab (that is, `target="_blank"`); relative links to pages within the site will open in the same window.
-
-Now you should be all set to show/hide your social icons. Each of these will pull the social icons and urls from the settings you just created in your site configuration file.
-
-## Show social in site header and footer
-
-Let's start with the header and footer, as those are site-wide. Open up your site `config.toml` file again and scroll down to the `[params]` section (it is actually :up: from where you configured these icons):
-
-```toml
-[params]
-  <!--snip snip-->
-  
-  # show/hide social icons in site header & footer
-  # configure social icons and links below in [[params.social]]
-  socialInHeader = false
-  socialInFooter = true
-```
-
-That was easy!
-
-## Show social in homepage
-
-Open up `content/_index.md`. That file's YAML controls what you see on the homepage. Set `show_social_links` like so:
-
-```yaml
-show_social_links: true # specify social accounts in site config
-```
-
-If you set this to `true` to show the icons on the homepage, your social icons in the footer will not show up even when you set `socialInFooter = true`, so as not to litter your site with too many icons.
-
-## Show social in about page sidebar
-
-Open up `content/about/sidebar/index.md`. That file's YAML controls what you see in the sidebar on the about page. Set `show_social_links` like so:
-
-```yaml
-show_social_links: true # specify social accounts in site config
-```
-
-## Show social in contact page
-
-You may use the YAML for your contact page (located in `content/form/contact.md`):
-
-```yaml
----
-show_social_links: true # specify social accounts in site config
----
-```
