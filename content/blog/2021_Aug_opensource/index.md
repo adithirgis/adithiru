@@ -6,7 +6,7 @@ categories:
 - Contribution
 date: "2021-08-19"
 draft: false
-excerpt: This blog post describes why I choose to volunteer. 
+excerpt: I volunteer to sleep peacefully.
 layout: single
 subtitle:  
 title: Why volunteer?
@@ -30,7 +30,7 @@ This year, since I am involved in R communities, I have started to give some tim
 
 So, why volunteering? For me, it would always be because I grow, I learn, I meet people around the world, I sleep peacefully. Sometimes it is difficult to find time, but I always remember all the super humans who contribute, do it, so I definitely can try. 
 
-<img src = "Bw_globe.png" alt = "A black and white doodled globe" width = "50%" style = "display: block; margin: auto;" />
+<img src = "feature.jpg" alt = "A black and white doodled globe" width = "50%" style = "display: block; margin: auto;" />
 
 
 

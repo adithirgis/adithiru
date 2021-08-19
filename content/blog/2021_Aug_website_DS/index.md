@@ -5,7 +5,7 @@ categories:
 - Website
 date: "2021-08-15"
 draft: false
-excerpt: This blog post briefly shows three ways to showcase your work and yourself. 
+excerpt: Wondering if you would need a website ever, read through.   
 layout: single
 subtitle: Wondering if you would need a website ever, read through.  
 title: Why and how website(s)?

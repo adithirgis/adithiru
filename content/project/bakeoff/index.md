@@ -1,66 +1,48 @@
 ---
-author: Eric Anderson
+author: Adithi R. Upadhya
 categories:
-- Theme Features
+- shiny
+- air quality
+- mobile monitoring
 - R
 - package
-date: "2019-07-01"
+- open source
+date: "2021-08-21"
 draft: false
 excerpt: This theme has a form-to-email feature built in, thanks to the simple Formspree
   integration. All you need to activate the form is a valid recipient email address
   saved in the form front matter.
 layout: single
 links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
 - icon: github
   icon_pack: fab
   name: code
-  url: https://github.com/apreshill/bakeoff
+  url: https://github.com/adithirgis/pollucheck
+- icon: newspaper
+  icon_pack: far
+  name: Paper
+  url: https://joss.theoj.org/papers/10.21105/joss.03435
 subtitle: An R Package
 tags:
-- hugo-site
-title: Bakeoff
+- R
+title: pollucheck
 ---
 
-![Formspree Logo](formspree-logo.png)
+## Abstract
 
-## [Formspree](https://formspree.io) makes it easy to receive submissions from HTML forms on your static website.
+<img src = "featured-hex.png" alt = "Logo of shiny R package pollucheck with Pollucheck and ILK Labs written on it." width = "30%" style = "display: block; margin: auto;" />
 
----
+Pollution data from these sources are typically in different file formats and templates that require customised codes or programmes for analysis. Also, a rigorous quality check of the data is preferred before visualization (plotting) and reporting. *`pollucheck`* offers a single-stop
+solution for
 
-### Functional Form
+(i) handling the pollution data from the open-source databases,
 
-This theme has a **form-to-email** feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form
-(`/content/forms/contact.md`). Of course, the example shown below (`your@email.here`) must not be used. Please use your actual email address.
+(ii) applying a suite of quality check options,
 
-```toml
-# please replace with a valid Formspree form id or email address
-formspree_form_id: your@email.here
-```
+(iii) generating a variety of summary statistics at various averaging intervals,
 
-Update that file and you're ready to begin receiving submissions. Just submit
-the active form for the first time, and complete the email address verification
-step with Formspree, and your contact form is live. The next time someone
-fills it out, the submission will land in your inbox.
+(iv) performing time series analysis,
 
-### Multiple Layouts
+(v) generating a bunch of temporal and statistical plots, and
 
-The files included with the theme have a contact page ready for copy/paste, or
-you can type `hugo new forms/contact.md` and you're off to the races. There are two
-layouts for `forms` – `split-right`, and `split-left` – you guessed it, one puts
-the form on the right and the other on the left. You just fill out the front
-matter, and the rest is automatic.
-
-```toml
-# layout options: split-right or split-left
-layout: split-right
-```
-
-![Contact Form Split Right Layout Screenshot](built-in-contact-form-screenshot.png)
-
-Both layouts display the page title and description opposite the form, and you
-can also choose to show your social icon links if you have those configured in
-the `config.toml` file.
+(vi) comparing data from two input files.
