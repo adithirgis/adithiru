@@ -25,7 +25,7 @@ Reiterating that I have been a benefactor of kind communities I wanted to commun
 
 ## How website(s)
 
-During the Diversity Scholar tutorial sessions we were encouraged to have our own website. Alison's session had three ways to have your own website. 
+During the Diversity Scholar tutorial sessions we were encouraged to have our own website. Alison's session had three ways to have your own website. There are many many ways, I know of only three ways and hence I discuss these three here. 
 
 ### First Method
 
@@ -61,7 +61,7 @@ Detailed Resources :
 
 Level : Everyone who uses R. 
 
-Requirements : [R](https://www.r-project.org/about.html), [RStudio](https://www.rstudio.com/), [rmarkdown](https://rmarkdown.rstudio.com/) package [postcards](https://github.com/seankross/postcards) package, your photo. 
+Requirements : [R](https://www.r-project.org/about.html), [RStudio](https://www.rstudio.com/), [rmarkdown](https://rmarkdown.rstudio.com/) package, [postcards](https://github.com/seankross/postcards) package, your photo. 
 
 Number of minutes I took to complete it : 35
 
@@ -89,7 +89,44 @@ Detailed Resources :
 
 - Here is the repo of this package and many other examples - https://github.com/seankross/postcards#getting-started. 
 
-Alison had introduced this theme called Hugo Apéro and I was blown away by the beauty. 
+
+### Third Method
+
+Alison had introduced this theme called Hugo Apéro and I was blown away by the beauty. It was work in progress back then and was supposed to be realsed for free. I was super happy becuase for a person who understands colours and art so less, this would be of great help. 
+
+Level : Everyone who uses R and is interested to learn more. 
+
+Requirements : [R](https://www.r-project.org/about.html), [RStudio](https://www.rstudio.com/), [rmarkdown](https://rmarkdown.rstudio.com/) package, [blogdown](https://bookdown.org/yihui/blogdown/) package, your photo. 
+
+Number of minutes I took to complete it : 720
+
+Procedure : 
+
+- Open RStudio and install postcards package as shown below.
+
+- There are multiple templates available in postcard package. Choose one of them. 
+
+```r
+require(blogdown)
+new_site(theme = "hugo-apero/hugo-apero", format = "toml", sample = FALSE,
+         empty_dirs = TRUE)
+blogdown::serve_site()
+blogdown::stop_server()
+```
+
+- An `index.Rmd` file will be generated, customize it and knit it. 
+
+- [Example](https://adithiru-shortbio.netlify.app/) shown below of how it could look like. 
+
+<img src = "PC_ARUS.JPG" alt = "Bio of Adithi R Upadhya using postcards package in R" width = "100%" style = "display: block; margin: auto;" />
+
+- You can as well fork this repo from [here](https://github.com/adithirgis/short_bio). 
+
+Detailed Resources :
+
+- Here is the repo of this package and many other examples - https://github.com/seankross/postcards#getting-started. 
+
+ 
 
 
 
