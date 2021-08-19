@@ -13,29 +13,86 @@ title: Why and how website(s)?
 
 I have been wanting to make a personal website forever, but I am also a person who is super bad with colour combinations, beautification of stuff. So I kept pushing this, till I stumbled on [Silvia's website](https://silvia.rbind.io/). I directly contacted her and she was very nice and sweet to help me out throughout this. This website has been heavily inspired by Silvia's. 
 
-I already had a [simple website](https://adithirgis.netlify.app/), but I wanted to beautify it. So the beginning of this year, I was got selected for the [rstudio::global(2021)](https://blog.rstudio.com/2020/11/30/diversity-scholarships/) Diversity Scholar. This year we had two amazing educators [Mine «etinkaya-Rundel](https://www2.stat.duke.edu/~mc301/) and [Alison Hill](https://alison.rbind.io/). 
+## Why website(s)
 
-Now the first thing that came to mind while making personal websites was do I really need one? 
-I was told by a few people who worked with me that I should I have a website, and I kept telling myself the same thing. Reiterating that I have been I wanted to communicate my research struggles, learning in a systematic manner. So here is the outcome of this. Alison had introduced this theme called Hugo Ap√©ro and I was blown away by the beauty. 
+I already had a [website](https://adithirgis.netlify.app/), but I wanted to add more content to it.  I was using my old website to share with people. So in the beginning of this year (2021), I was got selected for the [rstudio::global(2021)](https://blog.rstudio.com/2020/11/30/diversity-scholarships/) Diversity Scholarship. This year we had two amazing educators [Mine «etinkaya-Rundel](https://www2.stat.duke.edu/~mc301/) and [Alison Hill](https://alison.rbind.io/). 
 
-This blog is an inspiration derived from that session during rstudio::global(2021) conference and t
+<img src = "Bw_mirror.png" alt = "An old oval mirror" width = "15%" style = "display: block; margin: auto;" />
 
+Now the first thing that came to mind while making personal websites was do I really need one? Or why would anyone need a personal website? Then I remembered that a few people who worked with me always recommended that I should I have a website, and I kept telling myself the same thing. Website could be a your collection of work and blogs to share with others. So, if you work (any kind of work) or you like to blog, then you should definitely have a website. I had another strong reason to make my own website, which is I get a chance to work with R!
 
+Reiterating that I have been a benefactor of kind communities I wanted to communicate my research struggles, learning in a systematic manner. So here is on of the outcomes of this journey. 
 
-```toml
-[params]
-  <!--snip snip-->
-  
-  # Social icons may appear on your site header, footer, and other pages
-  # Add as many icons as you like below
-  # Icon pack "fab" includes brand icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
-  # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
-  # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
-  [[params.social]]
-      icon      = "github" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://github.com/apreshill/apero"
-  [[params.social]] <!--lather, rinse, repeat-->
+## How website(s)
+
+During the Diversity Scholar tutorial sessions we were encouraged to have our own website. Alison's session had three ways to have your own website. 
+
+### First Method
+
+Level : Everyone who owns a GitHub account. 
+
+Requirements : [Github account](https://github.com/), your photo.
+
+If you are not familiar with GitHub, I highly recommend using it. If you use R everyday then try [*Happy Git with R*](https://happygitwithr.com/). 
+
+Number of minutes I took to complete it : 15
+
+Procedure : 
+
+- Create a new repository which has the same name as your username, eg: my user name in GitHub is adithirgis, so I will make a repo which I name as adithirgis. 
+
+- Initialize the repo with a README.md, this is where you will write things. 
+
+- This is a special repository, you can customize your repo. 
+
+- You can add pictures, emoji's to this md file. 
+
+- And definitely commit and push all the changes. 
+
+- [Example](https://github.com/adithirgis) shown below of how it could look like. 
+
+<img src = "Github_ARUS.JPG" alt = "Github profile readme of Adithi R Upadhya" width = "100%" style = "display: block; margin: auto;" />
+
+Detailed Resources :
+
+- This is an awesome collection of variety of profiles, the links to the repo are also given - https://github.com/abhisheknaiidu/awesome-github-profile-readme. 
+
+### Second Method
+
+Level : Everyone who uses R. 
+
+Requirements : [R](https://www.r-project.org/about.html), [RStudio](https://www.rstudio.com/), [rmarkdown](https://rmarkdown.rstudio.com/) package [postcards](https://github.com/seankross/postcards) package, your photo. 
+
+Number of minutes I took to complete it : 35
+
+Procedure : 
+
+- Open RStudio and install postcards package as shown below.
+
+- There are multiple templates available in postcard package. Choose one of them. 
+
+```r
+require(remotes)
+remotes::install_github("seankross/postcards@main")
+postcards::create_postcard(template = "trestles")
 ```
+
+- An `index.Rmd` file will be generated, customize it and knit it. 
+
+- [Example](https://adithiru-shortbio.netlify.app/) shown below of how it could look like. 
+
+<img src = "PC_ARUS.JPG" alt = "Bio of Adithi R Upadhya using postcards package in R" width = "100%" style = "display: block; margin: auto;" />
+
+- You can as well fork this repo from [here](https://github.com/adithirgis/short_bio). 
+
+Detailed Resources :
+
+- Here is the repo of this package and many other examples - https://github.com/seankross/postcards#getting-started. 
+
+Alison had introduced this theme called Hugo Ap√©ro and I was blown away by the beauty. 
+
+
+
+
 
 

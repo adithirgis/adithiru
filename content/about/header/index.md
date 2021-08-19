@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hello, Thanks making it till here!
+  Hello World!
 ---
 
 <!-- this is a subheadline -->
