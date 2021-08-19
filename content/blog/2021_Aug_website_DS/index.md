@@ -131,9 +131,13 @@ blogdown::serve_site()
 
 - And the icon which I use is called the glowing sun downloaded as `.png` from [Icons8](https://icons8.com/icons/set/flower) and converted to `.ico` using [Favicon.io](https://favicon.io/favicon-converter/) as recommended by Silvia.
 
-- You can as well fork this repo from [here](https://github.com/adithirgis/adithiru). 
+- If you want to know how to make your website more accessible, I highly recommend checking [this](https://silvia.rbind.io/blog/2021-a11y-website/01-wave-audit-1/) series.
+
+- [Example](https://adithiru-shortbio.netlify.app/) shown below of how it could look like. 
 
 <img src = "HA_ARUS.JPG" alt = "Bio of Adithi R Upadhya using blogdown package in R" width = "100%" style = "display: block; margin: auto;" />
+
+- You can as well fork this repo from [here](https://github.com/adithirgis/adithiru). 
 
 Detailed Resources :
 
@@ -150,7 +154,7 @@ Detailed Resources :
 - Other example websites - https://hugo-apero-docs.netlify.app/project/
  
 
-If you find any mistakes or if you found anything helpful, please drop in a message using contact form, I built this website using the tutorial mentioned, with minimal errors. In the end, a huge shout out to Alison Hill and Silvia. 
+If you find any mistakes or have tips to improve this or if you found anything helpful, please drop in a message using contact form, I built this website using the tutorial mentioned, with minimal errors. In the end, a huge shout out to Alison Hill and Silvia. 
 
 
 
