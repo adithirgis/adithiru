@@ -3,7 +3,6 @@ author: Adithi R. Upadhya
 categories:
 - shiny
 - air quality
-- mobile monitoring
 - R
 - package
 - open source
@@ -22,7 +21,7 @@ links:
   icon_pack: far
   name: Paper
   url: https://joss.theoj.org/papers/10.21105/joss.03435
-subtitle: An R Package
+subtitle: 
 tags:
 - R
 title: pollucheck

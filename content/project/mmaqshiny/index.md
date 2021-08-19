@@ -24,7 +24,7 @@ links:
   icon_pack: far
   name: CRAN
   url: https://cran.r-project.org/web/packages/mmaqshiny/index.html
-subtitle: ""
+subtitle: 
 tags:
 - R
 title: mmaqshiny
