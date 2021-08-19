@@ -18,7 +18,7 @@ There is one significant incident which actually brought me in touch with the ki
 
 I have a very good friend from college [Deepthi](https://twitter.com/_Deepthi_R), a very amazing colleague [Saumya](https://twitter.com/Saumya8singh) and a friend [Anupama](https://twitter.com/anupamal14), who was also equally excited to start a Bangalore Chapter when we had met at a conference. 
 
-We quickly gathered the information required to start a chapter, and from then on conduct regular meet ups every month, hoping that people like me and myself are benefitted highly by these small power meet ups. You can check out the amazing speakers and topics [our chapter has hosted](https://github.com/rladies/meetup-presentations_bangalore).
+We quickly gathered the information required to start a chapter, and from then on conduct regular meet ups every month, hoping that people like me and myself are benefited highly by these small power meet ups. You can check out the amazing speakers and topics [our chapter has hosted](https://github.com/rladies/meetup-presentations_bangalore).
 
 Once I got a taste of volunteering and organising, I could not stop I went to do several other volunteering work from then on. I think they way I have benefited from the community, I feel volunteering is my very very small bit to give back. 
 
