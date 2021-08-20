@@ -15,6 +15,8 @@ The community has played a key role in making my coding journey smooth. I love t
 
 I am a proud alumna of [Sri Sathya Sai Institute of Higher Learning](https://www.sssihl.edu.in/). After my coding and science hours you can find my head behind my kindle or between my headphones or trying to play the Ukelele. I like to dance when no one's watching. 
 
+Here is my [CV](/about/header/Upadhya_CV_2021.pdf) last updated on July 2021.
+
 
 <i class="fas fa-graduation-cap pr2"></i>MSc. Geoinformatics  &#8729;
  Bharati Vidyapeeth Institute of Environment Education and Research  &#8729;  2018

@@ -18,7 +18,7 @@ show_post_thumbnail: true
 sidebar:
   author: Adithi R. Upadhya
   description: "I scribble my thoughts, notes, tips and learning to help myself \nover the years and anyone who lands up here."
-  show_sidebar_adunit: true
+  show_sidebar_adunit: false
   text_link_url: /index.xml
   title: Scribbled thoughts
 thumbnail_left: true

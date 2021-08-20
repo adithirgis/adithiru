@@ -1,11 +1,9 @@
 ---
 author: Adithi R. Upadhya
 categories:
-- shiny
-- air quality
-- mobile monitoring
 - R
-- package
+- Antarctica
+- Glacier velocity
 date: "2019-07-30"
 draft: false
 excerpt: Glacier Velocity estimation in Antarctica. 
@@ -14,8 +12,8 @@ layout:
 links: 
 - icon: file-pdf
   icon_pack: fas
-  name: Paper 
-  url: https://www.researchgate.net/publication/329054999_CHANGES_IN_VELOCITY_OF_FISHER_GLACIER_EAST_ANTARCTICA_USING_PIXEL_TRACKING_METHOD
+  name: Report 
+  url: project/glacier_work/Report.pdf
 subtitle: 
 tags:
 - Research
