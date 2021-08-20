@@ -5,7 +5,7 @@ categories:
 - mobile monitoring
 - R
 - open source
-date: "2021-08-21"
+date: "2020-08-20"
 draft: false
 excerpt: Mobile Monitoring of air quality in Bangalore, India.
 layout: single
@@ -21,9 +21,6 @@ title: Mobile Monitoring Campaign in Bangalore, India
 
 ## Executive Summary
 
-<img src = "featured-hex.png" alt = "Picture of Book cover, Mobile Monitoring Campaign." width = "30%" style = "display: block; margin: auto;" />
-
-
 Stationary air-quality monitoring is a common component of understanding air-pollution; however, monitoring at one location fails to capture local variations in pollutant concentrations. In locations where emissions and concentrations exhibit fine-scale spatial variability, including in urban environments in India, characterising spatial variability can be helpful for understanding sources and potential solutions for air-pollution. 'Mobile monitors', that is, sensors installed on a mobile platform, have been used as a new approach across the world, by cities and governments to complement their existing stationary monitoring networks. 
 
 This report summarises the outputs of an 11-month-long mobile-monitoring project with a goal to produce a high-resolution pollution map of select parts of Bengaluru. The aim of this project was also to study the contrast in urban areas and examine if these contrasts are reflected in measured pollutant concentrations. The data thus collected will help in building and validating predictive models in the future. A custom-built mobile platform, comprising a CNG car equipped with air-pollution instrumentation, was used in the study. Our route of study included a central business district (CBD), a residential urban neighbourhood, a peri-urban neighbourhood, and an
@@ -36,4 +33,6 @@ neighbourhoods (urban and peri-urban), followed by arterials and major roads. Al
 
 
 The study investigated the feasibility of mobile-monitoring studies in middle-income countries, which often have poor road conditions (making such measurement campaigns challenging), high background pollution levels, and heterogeneous sources of pollution. This project has demonstrated that this approach is feasible and leads to reliable estimates of street-level exposure. This approach can be tailored to study specific sources or regions and zoom in to identify hotspots that may be prioritised for policy interventions. The next steps would be to scale this approach in a way that best suits the needs of local policymakers.
+
+
 
