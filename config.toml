@@ -32,7 +32,7 @@ enableEmoji = true
   description = "Personal website of Adithi R. Upadhya"
   favicon = "/img/logo_online.ico"
   logo = "/img/Icon_ARU.png"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["blog", "project", "talk", "pub_press"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
