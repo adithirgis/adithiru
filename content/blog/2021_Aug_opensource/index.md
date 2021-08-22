@@ -33,4 +33,7 @@ So, why volunteering? For me, it would always be because I grow, I learn, I meet
 <img src = "feature.jpg" alt = "A black and white doodled globe" width = "50%" style = "display: block; margin: auto;" />
 
 
+This piece is a tribute to all who have helped me knowingly or unknowingly. Each one of you all have supported me. 
+
+
 
