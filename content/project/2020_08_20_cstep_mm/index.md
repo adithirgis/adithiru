@@ -1,5 +1,5 @@
 ---
-author: Adithi R. Upadhya
+author: Adithi R. Upadhya, Pratyush Agrawal, Sreekanth Vakacherla, and Meenakshi Kushwaha
 categories:
 - air quality
 - mobile monitoring

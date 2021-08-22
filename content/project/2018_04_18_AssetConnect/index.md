@@ -1,5 +1,5 @@
 ---
-author: Adithi R. Upadhya
+author: Adithi R. Upadhya, Parag Khatavkar
 categories:
 - Geospatial Technologies
 - C#

@@ -131,6 +131,8 @@ blogdown::serve_site()
 
 - And the icon which I use is called the glowing sun downloaded as `.png` from [Icons8](https://icons8.com/icons/set/flower) and converted to `.ico` using [Favicon.io](https://favicon.io/favicon-converter/) as recommended by Silvia.
 
+- All favicons can be be used from [here](https://fontawesome.com/v4.7/icons/).
+
 - If you want to know how to make your website more accessible, I highly recommend checking [this](https://silvia.rbind.io/blog/2021-a11y-website/01-wave-audit-1/) series.
 
 - [Example](https://adithiru-shortbio.netlify.app/) shown below of how it could look like. 
