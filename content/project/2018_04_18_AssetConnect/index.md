@@ -2,7 +2,6 @@
 author: Adithi R. Upadhya, Parag Khatavkar
 categories:
 - Geospatial Technologies
-- C#
 - Web Application
 - SQL
 - Asset Management System
