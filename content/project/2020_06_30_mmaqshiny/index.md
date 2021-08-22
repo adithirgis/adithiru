@@ -18,7 +18,7 @@ links:
   url: https://github.com/meenakshi-kushwaha/mmaqshiny
 - icon: github
   icon_pack: fab
-  name: Example
+  name: Code
   url: https://github.com/meenakshi-kushwaha/mmaqshiny#mmaqshiny-v10-r-shiny-package-to-explore-air-quality-mobile-monitoring-data
 - icon: file-pdf
   icon_pack: fas

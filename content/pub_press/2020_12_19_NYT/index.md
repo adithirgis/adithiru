@@ -1,29 +1,27 @@
 ---
-author: Alison Hill
+author: The New York Times, ILK Labs
 categories:
-- workshop
-date: "2021-01-12"
-date_end: "2021-01-13"
+- Press
+- Air Quality
+date: "2020-12-19"
 draft: false
-event: rstudio::global(2021)
-event_url: https://global.rstudio.com
-excerpt: Here is a talk I gave on making awesome personal websites using Hugo, blogdown,
-  GitHub, and Netlify.
+excerpt: 
 featured: true
 layout: single
 links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
-location: Sydney, Australia
+- icon: newspaper
+  icon_pack: far
+  name: News
+  url: https://www.nytimes.com/interactive/2020/12/17/world/asia/india-pollution-inequality.html?smtyp=cur&smid=tw-nytimes&s=08
+- icon: newspaper
+  icon_pack: far
+  name: Study 
+  url: https://www.nytimes.com/2020/12/24/insider/india-measuring-pollution.html
 show_post_time: false
-subtitle: Testing
-title: A campfire
+summary: The New York Times
+subtitle: The New York Times
+title: Who Gets to Breathe Clean Air in New Delhi? 
 ---
 
-I'm really excited to give this talk! Stay tuned for video and slides.
+
+This is a newspaper article where our team's work was featured. Read the article to know more. 
