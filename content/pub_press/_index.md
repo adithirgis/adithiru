@@ -1,5 +1,7 @@
 ---
 author: Adithi R. Upadhya
+show_post_thumbnail: false
+thumbnail_left: true # for list-sidebar only
 cascade:
   author: Adithi R. Upadhya
   show_author_byline: true
@@ -7,7 +9,7 @@ cascade:
   show_post_date: true
   show_post_time: true
   sidebar:
-    show_sidebar_adunit: true
+    show_sidebar_adunit: false
     text_link_label:
     text_link_url: /pub_press/
 description: |
@@ -15,7 +17,6 @@ description: |
 layout: list
 show_author_byline: true
 show_post_date: true
-show_post_thumbnail: true
 show_post_time: true
 sidebar:
   author: Adithi R. Upadhya
