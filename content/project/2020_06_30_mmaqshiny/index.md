@@ -20,8 +20,8 @@ links:
   icon_pack: fab
   name: Example
   url: https://github.com/meenakshi-kushwaha/mmaqshiny#mmaqshiny-v10-r-shiny-package-to-explore-air-quality-mobile-monitoring-data
-- icon: newspaper
-  icon_pack: far
+- icon: file-pdf
+  icon_pack: fas
   name: Paper
   url: https://joss.theoj.org/papers/10.21105/joss.02250
 - icon: newspaper

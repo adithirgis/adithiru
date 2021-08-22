@@ -19,8 +19,8 @@ links:
   icon_pack: fab
   name: Example
   url: https://github.com/adithirgis/pollucheck#pollucheck-open-source-air-quality-app
-- icon: newspaper
-  icon_pack: far
+- icon: file-pdf
+  icon_pack: fas
   name: Paper
   url: https://joss.theoj.org/papers/10.21105/joss.03435
 subtitle: 
