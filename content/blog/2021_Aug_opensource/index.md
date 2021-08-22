@@ -6,7 +6,7 @@ categories:
 - Contribution
 date: "2021-08-19"
 draft: false
-excerpt: I volunteer to sleep peacefully.
+excerpt: I discuss how and why I started volunteering. 
 layout: single
 subtitle:  
 title: Why volunteer?
