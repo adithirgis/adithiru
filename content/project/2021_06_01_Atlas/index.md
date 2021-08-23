@@ -28,7 +28,7 @@ The elephants in southern India are found in 7 states, predominantly in forested
 However, a comprehensive mapping of elephant distribution in Karnataka, their movement routes and corridors is essential. This would help in identifying the actual area available to them to meet their ecological requirements in the state. This publication "Atlas: Elephants of Karnataka - status, distribution, movements and corridors", for the first time ever, illustrates GIS based maps of elephant distribution, known routes and corridors and potential habitat links used by Asian elephants in Karnataka. 
 
 
-
+**The final Atlas is not published yet.**
 
 
 

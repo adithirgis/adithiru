@@ -11,7 +11,7 @@ subtitle: Wondering if you would need a website ever, read through.
 title: Why and how website(s)?
 ---
 
-I have been wanting to make a personal website forever, but I am also a person who is super bad with colour combinations, beautification of stuff. So I kept pushing this, till I stumbled on [Silvia Canelón's website](https://silvia.rbind.io/). I directly contacted her and she was very nice and sweet to help me out throughout this. This website has been heavily inspired by Silvia's. 
+I have been wanting to make a personal website forever, but I am also a person who is super bad with colour combinations, beautification of stuff. So I kept pushing this, till I stumbled on [Dr. Silvia Canelón's website](https://silvia.rbind.io/). I directly contacted her and she was very nice and sweet to help me out throughout this. This website has been heavily inspired by Silvia's. 
 
 ## Why website(s)
 
