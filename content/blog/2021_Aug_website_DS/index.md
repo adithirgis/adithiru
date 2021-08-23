@@ -21,7 +21,7 @@ So, in the beginning of this year (2021), I was got selected for the [rstudio::g
 
 Now the first thing that came to mind while making personal websites was do I really need one? Or why would anyone need a personal website? Then I remembered that a few people who worked with me always recommended that I should I have a website, and even I kept telling myself the same thing. Website could be a collection of your work and blogs to share with others. So, if you work (any kind of work) or you like to blog, then you should definitely have a website. I had another strong reason to make my own website, which is I get a chance to work with R! I already had a [website](https://adithirgis.netlify.app/), but had very less content. 
 
-Reiterating that I have been a benefactor of kind communities I wanted to communicate my research struggles, learning in a systematic manner. So here is on of the outcomes of this journey. 
+Reiterating that I have been a benefactor of kind communities I wanted to communicate my research struggles, learning in a systematic manner. So here is one of the outcomes of this journey. 
 
 ## How website(s)
 
