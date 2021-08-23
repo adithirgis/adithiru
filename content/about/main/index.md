@@ -17,6 +17,8 @@ intro: |
   I have conducted an Incubator on Strategies to build a strong [Asian R community at useR! 2021](https://twitter.com/janani137/status/1412621919392874499), in order to achieve this [Janani Ravi](https://jravilab.github.io/) and I are working towards it, please contact us at [adithiru095@gmail.com]() to join or know more. 
   
   I co-hosted a live Q and A session - Teaching for [rstudio::global(2021)](https://www.rstudio.com/resources/rstudioglobal-2021/?category_ids=1753-teaching) and was the chair for Keynote at [useR! 2021](https://user2021.r-project.org/join/).
+  
+  Though I speak a few programming languages only, in social life I can speak English, Hindi, Kannada, Tulu, Tamil, Telugu and I can understand Marathi.
 show_outro: true
 outro: |
   <i class="fas fa-brain"></i> Thinking Algorithm 
