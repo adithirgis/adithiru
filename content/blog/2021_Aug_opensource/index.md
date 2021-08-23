@@ -12,7 +12,7 @@ subtitle:
 title: Why volunteer?
 ---
 
-I started my journey with the community in 2020. Somehow the pandemic year really helped me to reach out to people. I always admired the people who were deeply involved in community or volunteering work. I never could phantom how they could make time and space for all the amazing work they do. 
+I started my journey with the community in 2020. Somehow the pandemic year really helped me to reach out to people. I always admired the people who were deeply involved in community or volunteering work. I never could fathom how they could make time and space for all the amazing work they do. 
 
 There is one significant incident which actually brought me in touch with the kind community. I attended my first [R Ladies](https://rladies.org/) virtual event, at 4 am in the morning, where [Dorris Scott](https://twitter.com/Dorris_Scott) taught us how to make website and **BAM** in 2 hours by 6 am in the morning here in India I had a [personal website](https://adithirgis.netlify.app/) which was way above my expectations. I was so satisfied with the outcome and the power of community learning and hand holding. I thought if I could build a website at 4 am in the morning, imagine what I could have done at 9 am (kidding, probably I would have added more content). So I checked for R Ladies local chapters here in Bangalore, India. I found that the chapter never started. 
 
