@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://adithirugis.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Adithi R. Upadhya"
