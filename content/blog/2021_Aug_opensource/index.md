@@ -20,7 +20,7 @@ I have a very good friend from college [Deepthi](https://twitter.com/_Deepthi_R)
 
 We quickly gathered the information required to start a chapter, and from then on conduct regular meet ups every month, hoping that people like me and myself are benefited highly by these small power meet ups. You can check out the amazing speakers and topics [our chapter has hosted](https://github.com/rladies/meetup-presentations_bangalore).
 
-Once I got a taste of volunteering and organising, I could not stop I went to do several other volunteering work from then on. I think they way I have benefited from the community, I feel volunteering is my very very small bit to give back. 
+Once I got a taste of volunteering and organising, I could not stop I went to do several other volunteering work from then on. I think the way I have benefited from the community, I feel volunteering is my very very small bit to give back. 
 
 I also got an opportunity to be a part of a [global conference](https://user2021.r-project.org/about/global-team/) because of Bangalore chapter. 
 
