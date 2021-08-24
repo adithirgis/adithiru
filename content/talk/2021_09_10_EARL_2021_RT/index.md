@@ -4,6 +4,9 @@ categories:
 - R
 - Shiny
 date: 2021-09-10T11:30:00
+date_end: 2021-09-10T12:00:00
+show_post_time: false
+subtitle: EARL Conference 2021
 draft: false
 event: EARL Conference 2021
 event_url: https://www.bigmarker.com/series/earl-conference/series_summit
@@ -19,9 +22,6 @@ links:
   name: schedule
   url: https://www.bigmarker.com/Mango-Solutions/EARL-2021?show_live_page=true
 location: Virtual
-show_post_time: false
-subtitle: EARL Conference 2021
-date_end: 2021-09-10T12:00:00
 subtitle: ""
 summary: ""
 all_day: yes
