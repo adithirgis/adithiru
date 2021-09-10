@@ -155,6 +155,9 @@ Detailed Resources :
 
 - Other example websites - https://hugo-apero-docs.netlify.app/project/
  
+ 
+ 
+I think I have not mentioned it enough THANK YOU Blogdown and Netlify for providing this support for free. I really appreciate it.
 
 If you find any mistakes or have tips to improve this or if you found anything helpful, please drop in a message using contact form, I built this website using the tutorial mentioned, with minimal errors. In the end, a huge shout out to Alison Hill and Silvia. 
 

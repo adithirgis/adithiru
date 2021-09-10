@@ -21,14 +21,25 @@ links:
   icon_pack: fas
   name: schedule
   url: https://www.bigmarker.com/Mango-Solutions/EARL-2021?show_live_page=true
+- icon: images
+  icon_pack: fas
+  name: slides
+  url: https://earl2021-aru.netlify.app/#1
+- icon: github
+  icon_pack: fab
+  name: Repository
+  url: https://github.com/adithirgis/EARL-2021
 location: Virtual
 subtitle: ""
 summary: ""
 all_day: yes
 publishDate: '2021-08-22'
-title: Shiny apps for air quality data analysis
+title: Shiny apps for aiR quality
 ---
 
-To be updated after the talk. Please attend, the session!
+<div class="shareagain" style="min-width:300px;margin:1em auto;">
+<iframe src="https://earl2021-aru.netlify.app/#1" width="700" height="500" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe>
+<script>fitvids('.shareagain', {players: 'iframe'});</script>
+</div>
 
 
