@@ -30,8 +30,8 @@ links:
   name: Repository
   url: https://github.com/adithirgis/EARL-2021
 location: Virtual
-subtitle: ""
-summary: ""
+subtitle: "EARL 2021 Regular Talk"
+summary: "EARL 2021 Regular Talk"
 all_day: yes
 publishDate: '2021-08-22'
 title: Shiny apps for aiR quality
