@@ -10,11 +10,11 @@ intro: |
   
   I am the co-founder and co-organiser of [R-Ladies Bengaluru](https://twitter.com/RLadiesBLR), facilitator of Asian Cohort of [R4DS book club](https://twitter.com/R4DScommunity). I was a part of the Global organising team for Sponsorship, Program and Content and Code of Conduct Response team for the [useR! 2021](https://user2021.r-project.org/about/global-team/).    
 
-  When not working with R communities I volunteer for [Bangpypers](https://bangalore.pythonindia.org/) (Bangalore Python users' group) and [PyCon India 2021](https://in.pycon.org/2021/about/). 
+  When not working with R communities I volunteer for [Bangpypers](https://bangalore.pythonindia.org/) (Bangalore Python users' group). 
   
-  I am a [peer reviewer](https://joss.theoj.org/papers/reviewed_by/@adithirgis) for Journal of Open Source Software.
+  I am a peer reviewer for [Journal of Open Source Software](https://joss.theoj.org/papers/reviewed_by/@adithirgis) and [rOpenSci](https://github.com/ropensci/software-review/issues/418#issuecomment-995521139).
   
-  I have conducted an Incubator on Strategies to build a strong [Asian R community at useR! 2021](https://twitter.com/janani137/status/1412621919392874499), in order to achieve this [Janani Ravi](https://jravilab.github.io/) and I are working towards it, please contact us at [adithiru095@gmail.com]() to join or know more. 
+  I have conducted an incubator on Strategies to build a strong [Asia R community at useR! 2021](https://twitter.com/janani137/status/1412621919392874499), [Janani Ravi](https://jravilab.github.io/) and I are working towards it, please contact us at [adithiru095@gmail.com]() to join or know more. 
   
   I co-hosted a live Q and A session - Teaching for [rstudio::global(2021)](https://www.rstudio.com/resources/rstudioglobal-2021/?category_ids=1753-teaching) and was the chair for Keynote at [useR! 2021](https://user2021.r-project.org/join/).
   
