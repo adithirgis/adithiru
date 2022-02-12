@@ -13,7 +13,7 @@ I started out with C++ while in high school and slowly moved to C and C# during 
 
 The community has played a key role in making my coding journey smooth. I love to learn new tips to make codes simpler, understand complex science in a simple way and my favourite way to spend time is writing functions.
 
-I am a proud alumna of [Sri Sathya Sai Institute of Higher Learning](https://www.sssihl.edu.in/). After my coding and science hours you can find my head behind my kindle or between my headphones or trying to play the Ukelele or trying to learn a new language. I like to dance when no one's watching.
+I am a proud alumna of [Sri Sathya Sai Institute of Higher Learning](https://www.sssihl.edu.in/). After my coding and science hours you can find my head behind my kindle or between my headphones or trying to play the Ukelele or trying to learn a new language. I am an amateur runner and a trained classical [Bharatnatyam](https://en.wikipedia.org/wiki/Bharatanatyam) dancer. 
 
 Here is my [CV](/about/header/Upadhya_CV_2021.pdf) last updated on July 2021.
 

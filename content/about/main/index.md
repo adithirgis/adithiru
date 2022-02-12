@@ -8,7 +8,7 @@ show_intro: true
 intro: |
   I am a Research Software Engineer for my team at [ILK Labs](https://www.ilklabs.com/). My work involves building machine learning models, analysing data to solve environmental issues. I have become a data enthusiast lately. Since I have heavily benefited from the community my other focus areas are community outreach and open science. 
   
-  I am the co-founder and co-organiser of [R-Ladies Bengaluru](https://twitter.com/RLadiesBLR), facilitator of Asian Cohort of [R4DS book club](https://twitter.com/R4DScommunity). I was a part of the Global organising team for Sponsorship, Program and Content and Code of Conduct Response team for the [useR! 2021](https://user2021.r-project.org/about/global-team/).    
+  I am the co-founder and co-organiser of [R-Ladies Bengaluru](https://twitter.com/RLadiesBLR), facilitator of Asian Cohort of [R4DS book club](https://twitter.com/R4DScommunity). I was a part of the Global organising team for Sponsorship, Program and Content and Code of Conduct Response team for the [useR! 2021](https://user2021.r-project.org/about/global-team/) and currently vounteering for [user! 2022](https://user2022.r-project.org/) as well.    
 
   When not working with R communities I volunteer for [Bangpypers](https://bangalore.pythonindia.org/) (Bangalore Python users' group). 
   
