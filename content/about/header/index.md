@@ -7,7 +7,7 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I am a Geospatial data analyst at [ILK Labs](https://www.ilklabs.com/), India. I have a Masters in Geoinformatics and a Bachelors in Physics. I have been working on mobile monitoring of air quality in specific routes in Bengaluru along with applying different models to low-cost air quality sensor data. I like making things simpler and automating analysis.  
+I am a Geospatial data analyst at [ILK Labs](https://www.ilklabs.com/), India. I have a Masters in Geoinformatics and a Bachelors in Physics. I have been working on mobile monitoring of air quality in specific routes in Bengaluru along with applying different models to low-cost air quality sensor data. I like making things simpler and automating analysis. I am a certified [RStudio Tidyverse Instructor](https://education.rstudio.com/trainers/people/upadhya+adithi/).  
 
 I started out with C++ while in high school and slowly moved to C and C# during Bachelors and Masters respectively. I started to use R to automate analysis for a bunch of satellite images and never turned back. I continuously use Python or R at work to make numbers easy to understand. I also use QGIS to make high resolution spatial maps. 
 
