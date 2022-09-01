@@ -1,5 +1,5 @@
 ---
-author: Rocío Joo, Andrea Sánchez-Tapia, Sara Mortara, Yanina Bellini Saibene, Heather Turner, Dorothea Hug Peter, Natalia Soledad Morandeira, Matt Bannert, Batool Almazrouq, Elizabeth Hare, Laura Ación, Juan Pablo Narváez-Gómez, Marcela Alfaro Córdoba, Federico Marini, Rita Giordano, Silvia Canelón, Anicet Ebou, Adithi R. Upadhya, Joselyn Chávez, Janani Ravi
+author: Rocío Joo, Andrea Sánchez-Tapia, et, al.
 categories:
 - Inclusive Communities
 - Conference
