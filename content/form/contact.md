@@ -1,6 +1,6 @@
 ---
 date: "2019-02-25T13:38:41-06:00"
-description: I think I am a fun person to talk to, so if you want to chat about my work or you have a few tips to improve my website or give me coding tips, contact me using this form.<br></br>I promise I will try my best to respond soon. Looking forward to hear from all of you!<br></br> Oh yes! This is powered by [Formspree](https://formspree.io/). 
+description: I think I am a fun person to talk to, so if you want to chat about my work or you have a few tips to improve my website or give me coding tips, contact me using this form.<br></br>I promise I will try my best to respond soon.<br></br> Oh yes! Adding a note - this is powered by [Formspree](https://formspree.io/). 
 draft: false
 formspree_form_id: id-from-formspree
 layout: split-right

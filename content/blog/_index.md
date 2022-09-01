@@ -9,15 +9,14 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View recent posts
     text_link_url: /blog/
-description: "This is a fully featured blog that supports categories, \ntags, series,
-  and pagination.\n"
+description: "Adithi's notepad.\n"
 layout: list-sidebar
 show_author_byline: true
 show_post_date: true
 show_post_thumbnail: true
 sidebar:
   author: Adithi R. Upadhya
-  description: "I scribble my thoughts, notes, tips and learning to help myself \nover the years and anyone who lands up here."
+  description: "I scribble my thoughts, notes, tips, and learning to help myself \nand anyone who lands here, over time."
   show_sidebar_adunit: false
   text_link_url: /index.xml
   title: Scribbled thoughts
