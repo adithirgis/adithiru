@@ -14,7 +14,7 @@ intro: |
   
   I am a peer reviewer for [Journal of Open Source Software](https://joss.theoj.org/papers/reviewed_by/@adithirgis) and [rOpenSci](https://github.com/ropensci/software-review/issues/418#issuecomment-995521139).
   
-  I have conducted an incubator on Strategies to build a strong [Asia R community at useR! 2021](https://twitter.com/janani137/status/1412621919392874499), [Janani Ravi](https://jravilab.github.io/) and I are working towards it, please contact us at [adithiru095@gmail.com]() to join or know more. 
+  I have conducted an incubator on Strategies to build a strong [Asia R community at useR! 2021](https://twitter.com/janani137/status/1412621919392874499), [Janani Ravi](https://jravilab.github.io/) and I are working towards it, please contact us at [adithiru095@gmail.com]() to join or know more. [AisaR](https://github.com/AsiaR-community) is now active! 
   
   I co-hosted a live Q and A session - Teaching for [rstudio::global(2021)](https://www.rstudio.com/resources/rstudioglobal-2021/?category_ids=1753-teaching) and was the chair for Keynote at [useR! 2021](https://user2021.r-project.org/join/).
   
