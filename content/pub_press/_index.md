@@ -20,7 +20,7 @@ show_post_date: true
 show_post_time: true
 sidebar:
   author: Adithi R. Upadhya
-  description: "Space for all publication"
+  description: "Space for all publications"
   show_sidebar_adunit: false
   text_link_label: Subscribe via RSS
   text_link_url: /pub_press/index.xml
