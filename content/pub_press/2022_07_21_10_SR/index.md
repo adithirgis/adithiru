@@ -1,23 +1,23 @@
 ---
-author: Meenakshi Kushwaha, V. Sreekanth, Adithi R. Upadhya, Pratyush Agrawal, Joshua S. Apte, and Julian D. Marshall 
+author: Rocío Joo, Andrea Sánchez-Tapia, and others 
 categories:
 - PM2.5
 - Bias
 - Reference grade
-date: "2022-07-25"
+date: "2022-07-21"
 draft: false
-excerpt: Environmental Monitoring and Assessment
+excerpt: PLOS Computational Biology
 featured: true
 layout: single
 links:
 - icon: file-pdf
   icon_pack: fas
   name: Paper
-  url: https://link.springer.com/article/10.1007/s10661-022-10293-4
+  url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010164
 show_post_time: false
-summary: Environmental Monitoring and Assessment
-subtitle: Environmental Monitoring and Assessment
-title: Bias in PM2.5 measurements using collocated reference-grade and optical instruments
+summary: PLOS Computational Biology
+subtitle: PLOS Computational Biology
+title: Ten simple rules to host an inclusive conference
 ---
 
 
