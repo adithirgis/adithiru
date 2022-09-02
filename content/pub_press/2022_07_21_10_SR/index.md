@@ -1,5 +1,5 @@
 ---
-author: Meenakshi Kushwaha, V. Sreekanth, Adithi R. Upadhya, Pratyush Agrawal, Joshua S. Apte, and Julian   
+author: Rocio Joo, Andrea Sanchez-Tapia, and others
 categories:
 - Inclusive Communities
 - Conference
