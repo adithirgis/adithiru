@@ -1,5 +1,5 @@
 ---
-author: Rocío Joo, Andrea Sánchez-Tapia, et, al 
+author: Rocío Joo, Andrea Sánchez-Tapia, and others
 categories:
 - Inclusive Communities
 - Conference
