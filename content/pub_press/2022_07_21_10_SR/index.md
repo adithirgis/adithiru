@@ -1,5 +1,5 @@
 ---
-author: Meenakshi Kushwaha, V. Sreekanth, Adithi R. Upadhya, Pratyush Agrawal, Joshua S. Apte, and Julian   
+author: Rocío Joo, Andrea Sánchez-Tapia, and others, Meenakshi Kushwaha, V. Sreekanth, Adithi R. Upadhya, Pratyush Agrawal, Joshua S. Apte, and Julian   
 categories:
 - PM2.5
 - Bias
