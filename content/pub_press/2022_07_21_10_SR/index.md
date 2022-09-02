@@ -1,9 +1,9 @@
 ---
-author: Rocío Joo, Andrea Sánchez-Tapia, and others, Meenakshi Kushwaha, V. Sreekanth, Adithi R. Upadhya, Pratyush Agrawal, Joshua S. Apte, and Julian   
+author: Meenakshi Kushwaha, V. Sreekanth, Adithi R. Upadhya, Pratyush Agrawal, Joshua S. Apte, and Julian   
 categories:
-- PM2.5
-- Bias
-- Reference grade
+- Inclusive Communities
+- Conference
+- Diversity
 date: "2022-07-21"
 draft: false
 excerpt: PLOS Computational Biology
