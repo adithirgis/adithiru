@@ -13,7 +13,7 @@ links:
 - icon: file-pdf
   icon_pack: fas
   name: Report 
-  url: project/glacier_work/Report.pdf
+  url: project/2019_07_30_Glacier_work/Report.pdf
 subtitle: 
 tags:
 - Research

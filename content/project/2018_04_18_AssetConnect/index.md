@@ -17,11 +17,11 @@ links:
 - icon: newspaper
   icon_pack: far
   name: Thesis 
-  url: project/assetconnect/AssetConnect_paper.docx
+  url: project/2018_04_18_AssetConnect/AssetConnect_paper.docx
 - icon: file-pdf
   icon_pack: fas
   name: Poster 
-  url: project/assetconnect/Poster.pdf
+  url: project/2018_04_18_AssetConnect/Poster.pdf
 tags:
 - Research
 title: AssetConnect 
@@ -40,4 +40,4 @@ The advantages of the system are that the system can communicate with any device
 Integration of stored data like the location, status, condition, history, and description has enabled easy access to the system. An organized management is achieved leading to less cost and less time consumption. The system's long-term goal is predictive maintenance and security of assets. The results in this work will improve the spatial dimension of asset management systems. The further scope in this study is the integration of IoT which will be a game changer in this system.
 
 
-![[2018 AssetConnect](Poster.pdf)](Poster.png)
+![[2018 AssetConnect](2018_04_18_AssetConnect/Poster.pdf)](Poster.png)

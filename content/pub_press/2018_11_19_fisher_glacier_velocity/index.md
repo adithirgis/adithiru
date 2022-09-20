@@ -11,7 +11,7 @@ links:
 - icon: file-pdf
   icon_pack: fas
   name: Paper
-  url: /pub_press/2018_11_19_Glacier_work/Paper.pdf
+  url: /pub_press/2018_11_19_fisher_glacier_velocity/Paper.pdf
 - icon: file-pdf
   icon_pack: fas
   name: Conference link
