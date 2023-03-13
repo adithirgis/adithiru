@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Press on Adithi R. Upadhya</title>
+    <link>https://adithirugis.netlify.app/categories/press/</link>
+    <description>Recent content in Press on Adithi R. Upadhya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 19 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://adithirugis.netlify.app/categories/press/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Who Gets to Breathe Clean Air in New Delhi?</title>
+      <link>https://adithirugis.netlify.app/pub_press/2020_12_19_nyt/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/pub_press/2020_12_19_nyt/</guid>
+      <description>The New York Times</description>
+    </item>
+    
+  </channel>
+</rss>

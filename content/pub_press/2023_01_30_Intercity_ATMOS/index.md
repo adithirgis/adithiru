@@ -17,7 +17,7 @@ links:
 show_post_time: false
 summary: ACS Earth and Space Chemistry
 subtitle: ACS Earth and Space Chemistry
-title: Inter- versus Intracity Variations in the Performance and Calibration of Low-Cost PM2.5 Sensors: A Multicity Assessment in India
+title: Inter - versus Intracity Variations in the Performance and Calibration of Low-Cost PM2.5 Sensors - A Multicity Assessment in India
 ---
 
 

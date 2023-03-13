@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Adithi R. Upadhya</title>
+    <link>https://adithirugis.netlify.app/categories/machine-learning/</link>
+    <description>Recent content in Machine Learning on Adithi R. Upadhya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://adithirugis.netlify.app/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Which model to choose? Performance comparison of statistical and machine learning models in predicting PM2.5 from high-resolution satellite aerosol optical depth</title>
+      <link>https://adithirugis.netlify.app/pub_press/2022_05_18_ae_ml/</link>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/pub_press/2022_05_18_ae_ml/</guid>
+      <description>Atmospheric Environment</description>
+    </item>
+    
+  </channel>
+</rss>

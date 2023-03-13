@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Best practices on Adithi R. Upadhya</title>
+    <link>https://adithirugis.netlify.app/tags/best-practices/</link>
+    <description>Recent content in Best practices on Adithi R. Upadhya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://adithirugis.netlify.app/tags/best-practices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Practices for Deploying and Maintaining a Low-Cost PM2.5 Sensor Network</title>
+      <link>https://adithirugis.netlify.app/project/2022_07_01_best_practices/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/project/2022_07_01_best_practices/</guid>
+      <description>AbstractStrategically placed sensors can monitor air pollution and provide a detailed picture of air quality and its variability within a region. Low-cost sensors (LCSs) that measure PM2.5 are becoming increasingly popular because of their low cost, ease of use, and portability. However, the portability and low cost come with trade-offs on data quality, reliability, and shelf life. The typical shelf life of LCSs is around a year to two.</description>
+    </item>
+    
+  </channel>
+</rss>

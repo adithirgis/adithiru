@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adithi R. Upadhya</title>
+    <link>https://adithirugis.netlify.app/</link>
+    <description>Recent content on Adithi R. Upadhya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://adithirugis.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inter - versus Intracity Variations in the Performance and Calibration of Low-Cost PM2.5 Sensors - A Multicity Assessment in India</title>
+      <link>https://adithirugis.netlify.app/pub_press/2023_01_30_intercity_atmos/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/pub_press/2023_01_30_intercity_atmos/</guid>
+      <description>ACS Earth and Space Chemistry</description>
+    </item>
+    
+    <item>
+      <title>Bias in PM2.5 measurements using collocated reference-grade and optical instruments</title>
+      <link>https://adithirugis.netlify.app/pub_press/2022_07_25_dt_bam/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/pub_press/2022_07_25_dt_bam/</guid>
+      <description>Environmental Monitoring and Assessment</description>
+    </item>
+    
+    <item>
+      <title>Ten simple rules to host an inclusive conference</title>
+      <link>https://adithirugis.netlify.app/pub_press/2022_07_21_10_sr/</link>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/pub_press/2022_07_21_10_sr/</guid>
+      <description>PLOS Computational Biology</description>
+    </item>
+    
+    <item>
+      <title>Best Practices for Deploying and Maintaining a Low-Cost PM2.5 Sensor Network</title>
+      <link>https://adithirugis.netlify.app/project/2022_07_01_best_practices/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/project/2022_07_01_best_practices/</guid>
+      <description>AbstractStrategically placed sensors can monitor air pollution and provide a detailed picture of air quality and its variability within a region. Low-cost sensors (LCSs) that measure PM2.5 are becoming increasingly popular because of their low cost, ease of use, and portability. However, the portability and low cost come with trade-offs on data quality, reliability, and shelf life. The typical shelf life of LCSs is around a year to two.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to spatial data analysis in R</title>
+      <link>https://adithirugis.netlify.app/talk/2022_06_20_user_2022_tutorial/</link>
+      <pubDate>Mon, 20 Jun 2022 13:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/talk/2022_06_20_user_2022_tutorial/</guid>
+      <description>Introduction to spatial data analysis in R</description>
+    </item>
+    
+    <item>
+      <title>Which model to choose? Performance comparison of statistical and machine learning models in predicting PM2.5 from high-resolution satellite aerosol optical depth</title>
+      <link>https://adithirugis.netlify.app/pub_press/2022_05_18_ae_ml/</link>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/pub_press/2022_05_18_ae_ml/</guid>
+      <description>Atmospheric Environment</description>
+    </item>
+    
+    <item>
+      <title>Performance Assessment of Low-Cost PM2.5 Sensors</title>
+      <link>https://adithirugis.netlify.app/project/2022_04_01_lcs/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/project/2022_04_01_lcs/</guid>
+      <description>AbstractAir pollution monitoring is an important aspect of air quality management. Strategically placed sensors can monitor air pollution and provide detailed information on air quality and its variability within a region. Low-cost sensors (LCSs) that measure PM2.5 (particulate matter with a size less than or equal to 2.5 microns) are becoming increasingly popular for monitoring air pollution because of their low cost and portability. However, the low cost and portability come with trade-offs on data quality, reliability, and shelf life.</description>
+    </item>
+    
+    <item>
+      <title>Indoor and Ambient Air Pollution in Chennai, India during COVID-19 Lockdown, An Affordable Sensors Study</title>
+      <link>https://adithirugis.netlify.app/pub_press/2021_12_01_indoor_chennai/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/pub_press/2021_12_01_indoor_chennai/</guid>
+      <description>Aerosol and Air Quality Research</description>
+    </item>
+    
+    <item>
+      <title>Shiny apps for aiR quality</title>
+      <link>https://adithirugis.netlify.app/talk/2021_09_10_earl_2021_rt/</link>
+      <pubDate>Fri, 10 Sep 2021 11:30:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/talk/2021_09_10_earl_2021_rt/</guid>
+      <description>EARL 2021 Regular Talk</description>
+    </item>
+    
+    <item>
+      <title>Why volunteer?</title>
+      <link>https://adithirugis.netlify.app/blog/2021_aug_opensource/</link>
+      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/blog/2021_aug_opensource/</guid>
+      <description>I started my journey with the community in 2020. Somehow the pandemic year really helped me to reach out to people. I always admired the people who were deeply involved in community or volunteering work. I never could fathom how they could make time and space for all the amazing work they do.
+There is one significant incident which actually brought me in touch with the kind community. I attended my first R Ladies virtual event, at 4 am in the morning (IST), where Dorris Scott taught us how to make website and BAM in 2 hours by 6 am in the morning here in India I had a personal website which was way above my expectations.</description>
+    </item>
+    
+    <item>
+      <title>Why and how website(s)?</title>
+      <link>https://adithirugis.netlify.app/blog/2021_aug_website_ds/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/blog/2021_aug_website_ds/</guid>
+      <description>I have been wanting to make a personal website forever, but I am also a person who is super bad with colour combinations, beautification of stuff. So I kept pushing this, till I stumbled on Dr. Silvia Canel�n&amp;rsquo;s website. I directly contacted her and she was very nice and sweet to help me out throughout this. This website has been heavily inspired by Silvia&amp;rsquo;s.
+Why website(s)So, in the beginning of this year (2021), I was got selected for the rstudio::global(2021) Diversity Scholarship to attend two workshops.</description>
+    </item>
+    
+    <item>
+      <title>pollucheck</title>
+      <link>https://adithirugis.netlify.app/project/2021_07_30_pollucheck/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/project/2021_07_30_pollucheck/</guid>
+      <description>Abstractpollucheck can handle real-time pollution and co-located meteorological data (if available) from the three most popular open-source air pollution databases: OpenAQ, AirNow, and Indian Central Pollution Control Board (CPCB) dashboard. While CPCB data are specific to Indian regulatory monitoring stations, OpenAQ hosts the global open-source pollution databases and AirNow hosts the global PM~2.5~ (mass concentration of particulate matter with an aerodynamic diameter less than or equal to 2.</description>
+    </item>
+    
+    <item>
+      <title>pollucheck v1.0, A package to explore open-source air pollution data</title>
+      <link>https://adithirugis.netlify.app/pub_press/2021_07_23_pollucheck/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/pub_press/2021_07_23_pollucheck/</guid>
+      <description>Journal of Open Source Software</description>
+    </item>
+    
+    <item>
+      <title>Strategies to build a strong AsiaR Community</title>
+      <link>https://adithirugis.netlify.app/talk/2021_07_08_user_2021_incubator/</link>
+      <pubDate>Thu, 08 Jul 2021 03:30:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/talk/2021_07_08_user_2021_incubator/</guid>
+      <description>Incubator to build a strong AsiaR community</description>
+    </item>
+    
+    <item>
+      <title>R in the aiR!</title>
+      <link>https://adithirugis.netlify.app/talk/2021_07_06_user_2021_ep/</link>
+      <pubDate>Tue, 06 Jul 2021 13:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/talk/2021_07_06_user_2021_ep/</guid>
+      <description>R packages for air quality data</description>
+    </item>
+    
+    <item>
+      <title>Elephants of Karnataka - Atlas</title>
+      <link>https://adithirugis.netlify.app/project/2021_06_01_atlas/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/project/2021_06_01_atlas/</guid>
+      <description>IntroductionThe elephants in southern India are found in 7 states, predominantly in forested hilly tracks of the Western Ghats and its adjacent Eastern Ghats in the states of Karnataka, Kerala, Tamil Nadu and also as small numbers and population in Andhra Pradesh, Maharashtra and Goa. Of all the elephants in the country, Karnataka harbors the highest number of elephants. The typography, climate, vegetation and natural water resources of Karnataka shape this into a distinctive elephant region.</description>
+    </item>
+    
+    <item>
+      <title>PM2.5/PM10 ratio characteristics over urban sites of India</title>
+      <link>https://adithirugis.netlify.app/pub_press/2021_05_15_ratio/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/pub_press/2021_05_15_ratio/</guid>
+      <description>Advances in Space Research</description>
+    </item>
+    
+    <item>
+      <title>Impact of COVID-19 lockdown on the fine particulate matter concentration levels; Results from Bengaluru megacity, India</title>
+      <link>https://adithirugis.netlify.app/pub_press/2021_04_01_covid_bc_pm/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/pub_press/2021_04_01_covid_bc_pm/</guid>
+      <description>Advances in Space Research</description>
+    </item>
+    
+    <item>
+      <title>Who Gets to Breathe Clean Air in New Delhi?</title>
+      <link>https://adithirugis.netlify.app/pub_press/2020_12_19_nyt/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/pub_press/2020_12_19_nyt/</guid>
+      <description>The New York Times</description>
+    </item>
+    
+    <item>
+      <title>mmaqshiny</title>
+      <link>https://adithirugis.netlify.app/project/2020_06_30_mmaqshiny/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/project/2020_06_30_mmaqshiny/</guid>
+      <description>Abstractmmaqshiny is for analysing, visualising and spatial plotting of high-resolution air quality data collected by specific devices installed on a moving platform. With the click of a button, the app generates: summary statistics, time series plots and spatial map of pollutant concentrations. This app reduces the time consumed for analysing each pollutant individually. It helps check the quality of the data at near real time (same day) and instantly visualise pollution hotspots.</description>
+    </item>
+    
+    <item>
+      <title>mmaqshiny v1.0, R-Shiny package to explore Air-Quality Mobile-Monitoring data</title>
+      <link>https://adithirugis.netlify.app/pub_press/2020_06_20_mmaqshiny/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/pub_press/2020_06_20_mmaqshiny/</guid>
+      <description>Journal of Open Source Software</description>
+    </item>
+    
+    <item>
+      <title>Estimating Glacier Velocity</title>
+      <link>https://adithirugis.netlify.app/project/2019_07_30_glacier_work/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/project/2019_07_30_glacier_work/</guid>
+      <description>AbstractGlacier movement is a crucial factor for assessing cryospheric climate change. Traditional methods of field surveys for studying glacier movement and velocity are often not possible owing to inaccessibility and harsh terrains. Furthermore, as it is not feasible to physically monitor and survey many glaciers around the globe, these traditional methods are limited in their global coverage. Remote sensing is an ideal tool to study such phenomena on a global scale.</description>
+    </item>
+    
+    <item>
+      <title>Chat with me</title>
+      <link>https://adithirugis.netlify.app/contact/</link>
+      <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/contact/</guid>
+      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
+Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
+    </item>
+    
+    <item>
+      <title>Changes in Velocity of Fisher Glacier, East Antarctica Using Pixel Tracking Method</title>
+      <link>https://adithirugis.netlify.app/pub_press/2018_11_19_fisher_glacier_velocity/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/pub_press/2018_11_19_fisher_glacier_velocity/</guid>
+      <description>ISPRS TC V Mid-term Symposium &amp;ldquo;Geospatial Technology - Pixel to People&amp;rdquo;, 20-23 November 2018, Dehradun, India</description>
+    </item>
+    
+    <item>
+      <title>AssetConnect</title>
+      <link>https://adithirugis.netlify.app/project/2018_04_18_assetconnect/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/project/2018_04_18_assetconnect/</guid>
+      <description>AbstractGeospatial technology is a powerful tool for monitoring ground-based assets. The best way to visualize ground-based assets is by tracking asset conditions in space and time. Spatial information is one of the crucial requirements in decision making for ground-based assets. An effective asset management can improve the performance; strengthen the infrastructure and tackle current and future challenges. The asset management system focuses on reducing the maintenance while extending the lifetime of the asset.</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://adithirugis.netlify.app/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/license/</guid>
+      <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.
+</description>
+    </item>
+    
+  </channel>
+</rss>

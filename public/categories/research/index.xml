@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Adithi R. Upadhya</title>
+    <link>https://adithirugis.netlify.app/categories/research/</link>
+    <description>Recent content in Research on Adithi R. Upadhya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 23 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://adithirugis.netlify.app/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pollucheck v1.0, A package to explore open-source air pollution data</title>
+      <link>https://adithirugis.netlify.app/pub_press/2021_07_23_pollucheck/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/pub_press/2021_07_23_pollucheck/</guid>
+      <description>Journal of Open Source Software</description>
+    </item>
+    
+    <item>
+      <title>mmaqshiny v1.0, R-Shiny package to explore Air-Quality Mobile-Monitoring data</title>
+      <link>https://adithirugis.netlify.app/pub_press/2020_06_20_mmaqshiny/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/pub_press/2020_06_20_mmaqshiny/</guid>
+      <description>Journal of Open Source Software</description>
+    </item>
+    
+    <item>
+      <title>Changes in Velocity of Fisher Glacier, East Antarctica Using Pixel Tracking Method</title>
+      <link>https://adithirugis.netlify.app/pub_press/2018_11_19_fisher_glacier_velocity/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/pub_press/2018_11_19_fisher_glacier_velocity/</guid>
+      <description>ISPRS TC V Mid-term Symposium &amp;ldquo;Geospatial Technology - Pixel to People&amp;rdquo;, 20-23 November 2018, Dehradun, India</description>
+    </item>
+    
+  </channel>
+</rss>

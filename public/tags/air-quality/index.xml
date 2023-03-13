@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Air Quality on Adithi R. Upadhya</title>
+    <link>https://adithirugis.netlify.app/tags/air-quality/</link>
+    <description>Recent content in Air Quality on Adithi R. Upadhya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://adithirugis.netlify.app/tags/air-quality/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Practices for Deploying and Maintaining a Low-Cost PM2.5 Sensor Network</title>
+      <link>https://adithirugis.netlify.app/project/2022_07_01_best_practices/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/project/2022_07_01_best_practices/</guid>
+      <description>AbstractStrategically placed sensors can monitor air pollution and provide a detailed picture of air quality and its variability within a region. Low-cost sensors (LCSs) that measure PM2.5 are becoming increasingly popular because of their low cost, ease of use, and portability. However, the portability and low cost come with trade-offs on data quality, reliability, and shelf life. The typical shelf life of LCSs is around a year to two.</description>
+    </item>
+    
+    <item>
+      <title>Performance Assessment of Low-Cost PM2.5 Sensors</title>
+      <link>https://adithirugis.netlify.app/project/2022_04_01_lcs/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/project/2022_04_01_lcs/</guid>
+      <description>AbstractAir pollution monitoring is an important aspect of air quality management. Strategically placed sensors can monitor air pollution and provide detailed information on air quality and its variability within a region. Low-cost sensors (LCSs) that measure PM2.5 (particulate matter with a size less than or equal to 2.5 microns) are becoming increasingly popular for monitoring air pollution because of their low cost and portability. However, the low cost and portability come with trade-offs on data quality, reliability, and shelf life.</description>
+    </item>
+    
+  </channel>
+</rss>

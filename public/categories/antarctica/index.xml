@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antarctica on Adithi R. Upadhya</title>
+    <link>https://adithirugis.netlify.app/categories/antarctica/</link>
+    <description>Recent content in Antarctica on Adithi R. Upadhya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://adithirugis.netlify.app/categories/antarctica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estimating Glacier Velocity</title>
+      <link>https://adithirugis.netlify.app/project/2019_07_30_glacier_work/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/project/2019_07_30_glacier_work/</guid>
+      <description>AbstractGlacier movement is a crucial factor for assessing cryospheric climate change. Traditional methods of field surveys for studying glacier movement and velocity are often not possible owing to inaccessibility and harsh terrains. Furthermore, as it is not feasible to physically monitor and survey many glaciers around the globe, these traditional methods are limited in their global coverage. Remote sensing is an ideal tool to study such phenomena on a global scale.</description>
+    </item>
+    
+  </channel>
+</rss>

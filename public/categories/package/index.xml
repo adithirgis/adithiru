@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>package on Adithi R. Upadhya</title>
+    <link>https://adithirugis.netlify.app/categories/package/</link>
+    <description>Recent content in package on Adithi R. Upadhya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://adithirugis.netlify.app/categories/package/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pollucheck</title>
+      <link>https://adithirugis.netlify.app/project/2021_07_30_pollucheck/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/project/2021_07_30_pollucheck/</guid>
+      <description>Abstractpollucheck can handle real-time pollution and co-located meteorological data (if available) from the three most popular open-source air pollution databases: OpenAQ, AirNow, and Indian Central Pollution Control Board (CPCB) dashboard. While CPCB data are specific to Indian regulatory monitoring stations, OpenAQ hosts the global open-source pollution databases and AirNow hosts the global PM~2.5~ (mass concentration of particulate matter with an aerodynamic diameter less than or equal to 2.</description>
+    </item>
+    
+    <item>
+      <title>mmaqshiny</title>
+      <link>https://adithirugis.netlify.app/project/2020_06_30_mmaqshiny/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/project/2020_06_30_mmaqshiny/</guid>
+      <description>Abstractmmaqshiny is for analysing, visualising and spatial plotting of high-resolution air quality data collected by specific devices installed on a moving platform. With the click of a button, the app generates: summary statistics, time series plots and spatial map of pollutant concentrations. This app reduces the time consumed for analysing each pollutant individually. It helps check the quality of the data at near real time (same day) and instantly visualise pollution hotspots.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL on Adithi R. Upadhya</title>
+    <link>https://adithirugis.netlify.app/categories/sql/</link>
+    <description>Recent content in SQL on Adithi R. Upadhya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://adithirugis.netlify.app/categories/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AssetConnect</title>
+      <link>https://adithirugis.netlify.app/project/2018_04_18_assetconnect/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/project/2018_04_18_assetconnect/</guid>
+      <description>AbstractGeospatial technology is a powerful tool for monitoring ground-based assets. The best way to visualize ground-based assets is by tracking asset conditions in space and time. Spatial information is one of the crucial requirements in decision making for ground-based assets. An effective asset management can improve the performance; strengthen the infrastructure and tackle current and future challenges. The asset management system focuses on reducing the maintenance while extending the lifetime of the asset.</description>
+    </item>
+    
+  </channel>
+</rss>

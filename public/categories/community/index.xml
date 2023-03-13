@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community on Adithi R. Upadhya</title>
+    <link>https://adithirugis.netlify.app/categories/community/</link>
+    <description>Recent content in Community on Adithi R. Upadhya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://adithirugis.netlify.app/categories/community/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why volunteer?</title>
+      <link>https://adithirugis.netlify.app/blog/2021_aug_opensource/</link>
+      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/blog/2021_aug_opensource/</guid>
+      <description>I started my journey with the community in 2020. Somehow the pandemic year really helped me to reach out to people. I always admired the people who were deeply involved in community or volunteering work. I never could fathom how they could make time and space for all the amazing work they do.
+There is one significant incident which actually brought me in touch with the kind community. I attended my first R Ladies virtual event, at 4 am in the morning (IST), where Dorris Scott taught us how to make website and BAM in 2 hours by 6 am in the morning here in India I had a personal website which was way above my expectations.</description>
+    </item>
+    
+    <item>
+      <title>Strategies to build a strong AsiaR Community</title>
+      <link>https://adithirugis.netlify.app/talk/2021_07_08_user_2021_incubator/</link>
+      <pubDate>Thu, 08 Jul 2021 03:30:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/talk/2021_07_08_user_2021_incubator/</guid>
+      <description>Incubator to build a strong AsiaR community</description>
+    </item>
+    
+  </channel>
+</rss>

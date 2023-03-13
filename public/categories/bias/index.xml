@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bias on Adithi R. Upadhya</title>
+    <link>https://adithirugis.netlify.app/categories/bias/</link>
+    <description>Recent content in Bias on Adithi R. Upadhya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://adithirugis.netlify.app/categories/bias/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inter - versus Intracity Variations in the Performance and Calibration of Low-Cost PM2.5 Sensors - A Multicity Assessment in India</title>
+      <link>https://adithirugis.netlify.app/pub_press/2023_01_30_intercity_atmos/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/pub_press/2023_01_30_intercity_atmos/</guid>
+      <description>ACS Earth and Space Chemistry</description>
+    </item>
+    
+    <item>
+      <title>Bias in PM2.5 measurements using collocated reference-grade and optical instruments</title>
+      <link>https://adithirugis.netlify.app/pub_press/2022_07_25_dt_bam/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/pub_press/2022_07_25_dt_bam/</guid>
+      <description>Environmental Monitoring and Assessment</description>
+    </item>
+    
+  </channel>
+</rss>

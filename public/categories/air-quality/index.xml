@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>air quality on Adithi R. Upadhya</title>
+    <link>https://adithirugis.netlify.app/categories/air-quality/</link>
+    <description>Recent content in air quality on Adithi R. Upadhya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://adithirugis.netlify.app/categories/air-quality/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Practices for Deploying and Maintaining a Low-Cost PM2.5 Sensor Network</title>
+      <link>https://adithirugis.netlify.app/project/2022_07_01_best_practices/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/project/2022_07_01_best_practices/</guid>
+      <description>AbstractStrategically placed sensors can monitor air pollution and provide a detailed picture of air quality and its variability within a region. Low-cost sensors (LCSs) that measure PM2.5 are becoming increasingly popular because of their low cost, ease of use, and portability. However, the portability and low cost come with trade-offs on data quality, reliability, and shelf life. The typical shelf life of LCSs is around a year to two.</description>
+    </item>
+    
+    <item>
+      <title>Performance Assessment of Low-Cost PM2.5 Sensors</title>
+      <link>https://adithirugis.netlify.app/project/2022_04_01_lcs/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/project/2022_04_01_lcs/</guid>
+      <description>AbstractAir pollution monitoring is an important aspect of air quality management. Strategically placed sensors can monitor air pollution and provide detailed information on air quality and its variability within a region. Low-cost sensors (LCSs) that measure PM2.5 (particulate matter with a size less than or equal to 2.5 microns) are becoming increasingly popular for monitoring air pollution because of their low cost and portability. However, the low cost and portability come with trade-offs on data quality, reliability, and shelf life.</description>
+    </item>
+    
+    <item>
+      <title>pollucheck</title>
+      <link>https://adithirugis.netlify.app/project/2021_07_30_pollucheck/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/project/2021_07_30_pollucheck/</guid>
+      <description>Abstractpollucheck can handle real-time pollution and co-located meteorological data (if available) from the three most popular open-source air pollution databases: OpenAQ, AirNow, and Indian Central Pollution Control Board (CPCB) dashboard. While CPCB data are specific to Indian regulatory monitoring stations, OpenAQ hosts the global open-source pollution databases and AirNow hosts the global PM~2.5~ (mass concentration of particulate matter with an aerodynamic diameter less than or equal to 2.</description>
+    </item>
+    
+    <item>
+      <title>PM2.5/PM10 ratio characteristics over urban sites of India</title>
+      <link>https://adithirugis.netlify.app/pub_press/2021_05_15_ratio/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/pub_press/2021_05_15_ratio/</guid>
+      <description>Advances in Space Research</description>
+    </item>
+    
+    <item>
+      <title>Impact of COVID-19 lockdown on the fine particulate matter concentration levels; Results from Bengaluru megacity, India</title>
+      <link>https://adithirugis.netlify.app/pub_press/2021_04_01_covid_bc_pm/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/pub_press/2021_04_01_covid_bc_pm/</guid>
+      <description>Advances in Space Research</description>
+    </item>
+    
+    <item>
+      <title>Who Gets to Breathe Clean Air in New Delhi?</title>
+      <link>https://adithirugis.netlify.app/pub_press/2020_12_19_nyt/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/pub_press/2020_12_19_nyt/</guid>
+      <description>The New York Times</description>
+    </item>
+    
+    <item>
+      <title>mmaqshiny</title>
+      <link>https://adithirugis.netlify.app/project/2020_06_30_mmaqshiny/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/project/2020_06_30_mmaqshiny/</guid>
+      <description>Abstractmmaqshiny is for analysing, visualising and spatial plotting of high-resolution air quality data collected by specific devices installed on a moving platform. With the click of a button, the app generates: summary statistics, time series plots and spatial map of pollutant concentrations. This app reduces the time consumed for analysing each pollutant individually. It helps check the quality of the data at near real time (same day) and instantly visualise pollution hotspots.</description>
+    </item>
+    
+  </channel>
+</rss>

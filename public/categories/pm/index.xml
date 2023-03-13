@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PM on Adithi R. Upadhya</title>
+    <link>https://adithirugis.netlify.app/categories/pm/</link>
+    <description>Recent content in PM on Adithi R. Upadhya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://adithirugis.netlify.app/categories/pm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Indoor and Ambient Air Pollution in Chennai, India during COVID-19 Lockdown, An Affordable Sensors Study</title>
+      <link>https://adithirugis.netlify.app/pub_press/2021_12_01_indoor_chennai/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/pub_press/2021_12_01_indoor_chennai/</guid>
+      <description>Aerosol and Air Quality Research</description>
+    </item>
+    
+    <item>
+      <title>PM2.5/PM10 ratio characteristics over urban sites of India</title>
+      <link>https://adithirugis.netlify.app/pub_press/2021_05_15_ratio/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/pub_press/2021_05_15_ratio/</guid>
+      <description>Advances in Space Research</description>
+    </item>
+    
+    <item>
+      <title>Impact of COVID-19 lockdown on the fine particulate matter concentration levels; Results from Bengaluru megacity, India</title>
+      <link>https://adithirugis.netlify.app/pub_press/2021_04_01_covid_bc_pm/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/pub_press/2021_04_01_covid_bc_pm/</guid>
+      <description>Advances in Space Research</description>
+    </item>
+    
+  </channel>
+</rss>

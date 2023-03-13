@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Adithi R. Upadhya</title>
+    <link>https://adithirugis.netlify.app/categories/r/</link>
+    <description>Recent content in R on Adithi R. Upadhya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Jun 2022 13:00:00 +0000</lastBuildDate><atom:link href="https://adithirugis.netlify.app/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to spatial data analysis in R</title>
+      <link>https://adithirugis.netlify.app/talk/2022_06_20_user_2022_tutorial/</link>
+      <pubDate>Mon, 20 Jun 2022 13:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/talk/2022_06_20_user_2022_tutorial/</guid>
+      <description>Introduction to spatial data analysis in R</description>
+    </item>
+    
+    <item>
+      <title>Shiny apps for aiR quality</title>
+      <link>https://adithirugis.netlify.app/talk/2021_09_10_earl_2021_rt/</link>
+      <pubDate>Fri, 10 Sep 2021 11:30:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/talk/2021_09_10_earl_2021_rt/</guid>
+      <description>EARL 2021 Regular Talk</description>
+    </item>
+    
+    <item>
+      <title>Why volunteer?</title>
+      <link>https://adithirugis.netlify.app/blog/2021_aug_opensource/</link>
+      <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/blog/2021_aug_opensource/</guid>
+      <description>I started my journey with the community in 2020. Somehow the pandemic year really helped me to reach out to people. I always admired the people who were deeply involved in community or volunteering work. I never could fathom how they could make time and space for all the amazing work they do.
+There is one significant incident which actually brought me in touch with the kind community. I attended my first R Ladies virtual event, at 4 am in the morning (IST), where Dorris Scott taught us how to make website and BAM in 2 hours by 6 am in the morning here in India I had a personal website which was way above my expectations.</description>
+    </item>
+    
+    <item>
+      <title>Why and how website(s)?</title>
+      <link>https://adithirugis.netlify.app/blog/2021_aug_website_ds/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/blog/2021_aug_website_ds/</guid>
+      <description>I have been wanting to make a personal website forever, but I am also a person who is super bad with colour combinations, beautification of stuff. So I kept pushing this, till I stumbled on Dr. Silvia Canel�n&amp;rsquo;s website. I directly contacted her and she was very nice and sweet to help me out throughout this. This website has been heavily inspired by Silvia&amp;rsquo;s.
+Why website(s)So, in the beginning of this year (2021), I was got selected for the rstudio::global(2021) Diversity Scholarship to attend two workshops.</description>
+    </item>
+    
+    <item>
+      <title>pollucheck</title>
+      <link>https://adithirugis.netlify.app/project/2021_07_30_pollucheck/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/project/2021_07_30_pollucheck/</guid>
+      <description>Abstractpollucheck can handle real-time pollution and co-located meteorological data (if available) from the three most popular open-source air pollution databases: OpenAQ, AirNow, and Indian Central Pollution Control Board (CPCB) dashboard. While CPCB data are specific to Indian regulatory monitoring stations, OpenAQ hosts the global open-source pollution databases and AirNow hosts the global PM~2.5~ (mass concentration of particulate matter with an aerodynamic diameter less than or equal to 2.</description>
+    </item>
+    
+    <item>
+      <title>pollucheck v1.0, A package to explore open-source air pollution data</title>
+      <link>https://adithirugis.netlify.app/pub_press/2021_07_23_pollucheck/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/pub_press/2021_07_23_pollucheck/</guid>
+      <description>Journal of Open Source Software</description>
+    </item>
+    
+    <item>
+      <title>Strategies to build a strong AsiaR Community</title>
+      <link>https://adithirugis.netlify.app/talk/2021_07_08_user_2021_incubator/</link>
+      <pubDate>Thu, 08 Jul 2021 03:30:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/talk/2021_07_08_user_2021_incubator/</guid>
+      <description>Incubator to build a strong AsiaR community</description>
+    </item>
+    
+    <item>
+      <title>R in the aiR!</title>
+      <link>https://adithirugis.netlify.app/talk/2021_07_06_user_2021_ep/</link>
+      <pubDate>Tue, 06 Jul 2021 13:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/talk/2021_07_06_user_2021_ep/</guid>
+      <description>R packages for air quality data</description>
+    </item>
+    
+    <item>
+      <title>mmaqshiny</title>
+      <link>https://adithirugis.netlify.app/project/2020_06_30_mmaqshiny/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/project/2020_06_30_mmaqshiny/</guid>
+      <description>Abstractmmaqshiny is for analysing, visualising and spatial plotting of high-resolution air quality data collected by specific devices installed on a moving platform. With the click of a button, the app generates: summary statistics, time series plots and spatial map of pollutant concentrations. This app reduces the time consumed for analysing each pollutant individually. It helps check the quality of the data at near real time (same day) and instantly visualise pollution hotspots.</description>
+    </item>
+    
+    <item>
+      <title>mmaqshiny v1.0, R-Shiny package to explore Air-Quality Mobile-Monitoring data</title>
+      <link>https://adithirugis.netlify.app/pub_press/2020_06_20_mmaqshiny/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/pub_press/2020_06_20_mmaqshiny/</guid>
+      <description>Journal of Open Source Software</description>
+    </item>
+    
+    <item>
+      <title>Estimating Glacier Velocity</title>
+      <link>https://adithirugis.netlify.app/project/2019_07_30_glacier_work/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithirugis.netlify.app/project/2019_07_30_glacier_work/</guid>
+      <description>AbstractGlacier movement is a crucial factor for assessing cryospheric climate change. Traditional methods of field surveys for studying glacier movement and velocity are often not possible owing to inaccessibility and harsh terrains. Furthermore, as it is not feasible to physically monitor and survey many glaciers around the globe, these traditional methods are limited in their global coverage. Remote sensing is an ideal tool to study such phenomena on a global scale.</description>
+    </item>
+    
+  </channel>
+</rss>
