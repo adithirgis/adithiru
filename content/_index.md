@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I am a researcher, data scientist and a wildlife conservationist. I am interested in Environmental Data Science and I like to tell stories with data. I am constantly benefited by the programming community. 
+description: I am a researcher, data scientist and a wildlife conservationist. I am interested in Environmental Data Science and I like to tell stories with data. 
 image_left: true
 images:
 - img/typewriter_bw.jpg
